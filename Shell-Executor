@@ -1,1 +1,5 @@
-Shell Executor
+Linux Shell Executor 
+1) Made a Linux shell clone to execute UNIX commands.  
+2) Source code was written in C. Programming, testing, and debugging was done in Linux environment 
+3) Objective of this project was to practice and apply the concepts of system calls, forking, pipes, and process control.
+4) The user commands were parsed and organized in the form of a binary tree and were retrieved through a clever recursive function. 
