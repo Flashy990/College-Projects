@@ -1,3 +1,4 @@
 1) The main objective of this project was to create lexer, parser, and an interpreter for my own new language.
 2) Applied the concepts of regular expressions, state machines, language grammar, and operational semantics to achieve my goal.
 3) The programming was done entirely in Ocaml using higher order functions and various other recursive helper functions.
+4) Property based tests were used to check the code and make sure that its bug free.
