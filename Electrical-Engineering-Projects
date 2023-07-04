@@ -1,1 +1,11 @@
+I. Car Taillight Blinker System 
+1) Made a car taillight blinker system circuit on intel quartus.
+2) Made a finite state machine to map out the different system states and transitions. Programmed circuit blocks using VHDL.
+3) Used the built in Intel Quartus waveofrms functionality to simulated and test my circuit
 
+II. 8-bit Multiplier circuit 
+1) Used Intel Quartus to design an 8-bit multiplier and produce the result on an FPGA’s 7-segement display. 
+2) Designed and utilized decoders, multiplexers, encoders, adders, registers, and counters. 
+
+III. Decoding ASK and FSK modulated signals 
+1) Used MATLAB project to decode a Manchester encoded message sent through ASK and FSK modulated signals using fast fourier transforms and filtering. 
